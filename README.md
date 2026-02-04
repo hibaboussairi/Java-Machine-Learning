@@ -55,25 +55,6 @@ code/
 - Un IDE Java (Eclipse, IntelliJ IDEA, VS Code, etc.)
 - Git (pour cloner le projet)
 
-### 📥 Téléchargement du Projet
-
-#### Option 1 : Cloner avec Git
-
-```bash
-# Cloner le dépôt
-git clone https://github.com/hibaboussairi/Java-Machine-Learning.git
-
-# Naviguer dans le répertoire
-cd Java-Machine-Learning
-```
-
-#### Option 2 : Télécharger le ZIP
-
-1. Visitez [https://github.com/hibaboussairi/Java-Machine-Learning](https://github.com/hibaboussairi/Java-Machine-Learning)
-2. Cliquez sur le bouton vert **"Code"**
-3. Sélectionnez **"Download ZIP"**
-4. Extrayez le fichier ZIP dans le répertoire de votre choix
-
 ### Compilation
 
 ```bash
@@ -93,23 +74,6 @@ javac -d bin app/*.java core/*.java linear/*.java knn/*.java preprocessing/*.jav
 java -cp bin ml.app.Main
 ```
 
-## � Téléchargement
-
-| Version | Lien |
-|---------|------|
-| 🎯 Java ML Framework (v1.0) | [Télécharger](https://github.com/hibaboussairi/Java-Machine-Learning/archive/refs/heads/main.zip) |
-
-### 📦 Encadrant
-
-**Zakaria Boulouard**
-
-### 👥 Auteurs
-
-**Hiba Boussairi**
-
-Projet universitaire - Année 2025/2026.
-
----
 
 ## �💡 Exemple d'Utilisation
 
@@ -148,23 +112,17 @@ Le programme principal (`Main.java`) effectue des tests comparatifs sur :
 - **R² Score** : Pour les modèles de régression (mesure la qualité de l'ajustement)
 - **Accuracy** : Pour les modèles de classification (taux de bonnes prédictions)
 
+## � Téléchargement
 
-## � Améliorations Futures
+| Version | Lien |
+|---------|------|
+| 🎯 Java ML Framework (v1.0) | [Télécharger](https://github.com/hibaboussairi/Java-Machine-Learning/archive/refs/heads/main.zip) |
 
-- [ ] Ajout d'autres algorithmes (SVM, Decision Trees, etc.)
-- [ ] Implémentation de la validation croisée
-- [ ] Support pour les datasets multi-features
-- [ ] Sauvegarde et chargement de modèles
-- [ ] Interface graphique pour visualiser les résultats
+###  Encadrant
+**Samir Anter**
 
-## 📄 Licence
+### 👥 Auteurs
+**Hiba Boussairi**
 
-Ce projet est développé dans un cadre académique.
+Projet universitaire - Année 2025/2026.
 
-## 🙏 Remerciements
-
-Projet réalisé dans le cadre du cours de Programmation Orientée Objet.
-
----
-
-⭐ N'hésitez pas à mettre une étoile si ce projet vous a été utile !
