@@ -1,0 +1,50 @@
+# Fichiers compilés Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Fichiers de build
+bin/
+build/
+target/
+out/
+
+# IDE - Eclipse
+.classpath
+.project
+.settings/
+.metadata/
+
+# IDE - IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# IDE - VS Code
+.vscode/
+
+# IDE - NetBeans
+nbproject/
+nbbuild/
+dist/
+nbdist/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Fichiers temporaires
+*.tmp
+*.bak
+*.swp
+*~
+
+# Logs
+*.log
+
+# Documentation compilée
+*.pdf
+!projet_ML_POO.pdf
