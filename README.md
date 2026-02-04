@@ -110,26 +110,7 @@ Le programme principal (`Main.java`) effectue des tests comparatifs sur :
 - **R² Score** : Pour les modèles de régression (mesure la qualité de l'ajustement)
 - **Accuracy** : Pour les modèles de classification (taux de bonnes prédictions)
 
-## 🔧 Améliorations Futures
-
-- [ ] Ajout d'autres algorithmes (SVM, Decision Trees, etc.)
-- [ ] Implémentation de la validation croisée
-- [ ] Support pour les datasets multi-features
-- [ ] Sauvegarde et chargement de modèles
-- [ ] Interface graphique pour visualiser les résultats
 
 ## 👥 Auteur
-
 **Hiba Boussairi**
 
-## 📄 Licence
-
-Ce projet est développé dans un cadre académique.
-
-## 🙏 Remerciements
-
-Projet réalisé dans le cadre du cours de Programmation Orientée Objet.
-
----
-
-⭐ N'hésitez pas à mettre une étoile si ce projet vous a été utile !
