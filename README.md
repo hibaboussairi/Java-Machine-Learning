@@ -134,7 +134,7 @@ Le programme principal (`Main.java`) effectue des tests comparatifs sur :
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
   </a>
   <a href="https://github.com/hibaboussairi/Java-Machine-Learning" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Java--ML--black?style=for-the-badge&logo=github">
+    <img src="https://img.shields.io/badge/GitHub-Java--Machine--Learning-black?style=for-the-badge&logo=github">
   </a>
 </p>
 
