@@ -53,6 +53,26 @@ code/
 
 - Java JDK 8 ou supérieur
 - Un IDE Java (Eclipse, IntelliJ IDEA, VS Code, etc.)
+- Git (pour cloner le projet)
+
+### 📥 Téléchargement du Projet
+
+#### Option 1 : Cloner avec Git
+
+```bash
+# Cloner le dépôt
+git clone https://github.com/hibaboussairi/Java-Machine-Learning.git
+
+# Naviguer dans le répertoire
+cd Java-Machine-Learning
+```
+
+#### Option 2 : Télécharger le ZIP
+
+1. Visitez [https://github.com/hibaboussairi/Java-Machine-Learning](https://github.com/hibaboussairi/Java-Machine-Learning)
+2. Cliquez sur le bouton vert **"Code"**
+3. Sélectionnez **"Download ZIP"**
+4. Extrayez le fichier ZIP dans le répertoire de votre choix
 
 ### Compilation
 
