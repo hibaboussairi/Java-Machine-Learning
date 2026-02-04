@@ -93,7 +93,25 @@ javac -d bin app/*.java core/*.java linear/*.java knn/*.java preprocessing/*.jav
 java -cp bin ml.app.Main
 ```
 
-## 💡 Exemple d'Utilisation
+## � Téléchargement
+
+| Version | Lien |
+|---------|------|
+| 🎯 Java ML Framework (v1.0) | [Télécharger](https://github.com/hibaboussairi/Java-Machine-Learning/archive/refs/heads/main.zip) |
+
+### 📦 Encadrant
+
+**Zakaria Boulouard**
+
+### 👥 Auteurs
+
+**Hiba Boussairi**
+
+Projet universitaire - Année 2025/2026.
+
+---
+
+## �💡 Exemple d'Utilisation
 
 ```java
 // Créer et entraîner un modèle de régression linéaire
@@ -131,6 +149,22 @@ Le programme principal (`Main.java`) effectue des tests comparatifs sur :
 - **Accuracy** : Pour les modèles de classification (taux de bonnes prédictions)
 
 
-## 👥 Auteur
-**Hiba Boussairi**
+## � Améliorations Futures
 
+- [ ] Ajout d'autres algorithmes (SVM, Decision Trees, etc.)
+- [ ] Implémentation de la validation croisée
+- [ ] Support pour les datasets multi-features
+- [ ] Sauvegarde et chargement de modèles
+- [ ] Interface graphique pour visualiser les résultats
+
+## 📄 Licence
+
+Ce projet est développé dans un cadre académique.
+
+## 🙏 Remerciements
+
+Projet réalisé dans le cadre du cours de Programmation Orientée Objet.
+
+---
+
+⭐ N'hésitez pas à mettre une étoile si ce projet vous a été utile !
