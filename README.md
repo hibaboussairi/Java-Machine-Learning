@@ -75,7 +75,7 @@ java -cp bin ml.app.Main
 ```
 
 
-## �💡 Exemple d'Utilisation
+## 💡 Exemple d'Utilisation
 
 ```java
 // Créer et entraîner un modèle de régression linéaire
@@ -112,7 +112,7 @@ Le programme principal (`Main.java`) effectue des tests comparatifs sur :
 - **R² Score** : Pour les modèles de régression (mesure la qualité de l'ajustement)
 - **Accuracy** : Pour les modèles de classification (taux de bonnes prédictions)
 
-## � Téléchargement
+## ⬇️  Téléchargement
 
 | Version | Lien |
 |---------|------|
