@@ -118,19 +118,23 @@ Le programme principal (`Main.java`) effectue des tests comparatifs sur :
 |---------|------|
 | 🎯 Java ML Framework (v1.0) | [Télécharger](https://github.com/hibaboussairi/Java-Machine-Learning/archive/refs/heads/main.zip) |
 
-###  Encadrant
+## 🎓 Encadrant
+
 **Samir Anter**
 
-### 👥 Auteurs
-**Hiba Boussairi**
+## 👤 Auteur
 
-Projet universitaire - Année 2025/2026.
+**HIBA BOUSSAIRI**
+
+Étudiante en Licence Genie informatique – Projet académique en  
+**Java-Machine-Learning**
+
 <p align="left">
   <a href="https://www.linkedin.com/in/hiba-boussairi-b9770b384" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
   </a>
   <a href="https://github.com/hibaboussairi/Java-Machine-Learning" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Java--Machine--Learning-black?style=for-the-badge&logo=github">
+    <img src="https://img.shields.io/badge/GitHub-Java-ML-black?style=for-the-badge&logo=github">
   </a>
 </p>
 
